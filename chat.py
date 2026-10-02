@@ -45,7 +45,3 @@ demo = gr.ChatInterface(
     title="MWT's AI Help Assistant",
 )
 demo.launch(share=True)
-
-
-#answer = chat("用一句话给我解释什么是Agent开发")
-#print(answer)
